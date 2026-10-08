@@ -1,4 +1,4 @@
-# Mustafa Yağcı (@yotova)
+# Mustafa Yağcı
 
 <div align="center">
 
@@ -6,15 +6,15 @@
 
 [![M.Sc. UniPa](https://img.shields.io/badge/M.Sc._Electronic_Engineering-UniPa_%7C_Nov_2025--Present-8B0000?style=for-the-badge&logo=googlescholar&logoColor=white)](https://www.unipa.it)
 [![B.Sc. ESOGU](https://img.shields.io/badge/B.Sc._Electrical_%26_Electronics-ESOGÜ_%7C_Apr_2025-003366?style=for-the-badge&logo=academia&logoColor=white)](https://ogu.edu.tr)
-[![Technical Reviewer](https://img.shields.io/badge/Book_Reviewer-FPGA_%26_Digital_Design_(Active)-2e7d32?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/yotova)
-[![Quant Track](https://img.shields.io/badge/Live_Quant_AUM-%E2%82%AC537K+_Peak-b8860b?style=for-the-badge&logo=tradingview&logoColor=white)](https://github.com/yotova)
+[![Technical Reviewer](https://img.shields.io/badge/Book_Reviewer-FPGA_%26_Digital_Design_(Active)-2e7d32?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/Mustafa-Yagci)
+[![Quant Track](https://img.shields.io/badge/Live_Quant_AUM-%E2%82%AC537K+_Peak-b8860b?style=for-the-badge&logo=tradingview&logoColor=white)](https://github.com/Mustafa-Yagci)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustafa_Yağcı-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-mrmustafayagci%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrmustafayagci@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Palermo%2C_Italy_%2F_Eski%C5%9Fehir%2C_Turkey-555555?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com)
-[![GitHub Portfolio](https://img.shields.io/badge/Academic_Portfolio-248_Files_%7C_160_MB-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/yotova/engineering-academic-portfolio)
+[![GitHub Portfolio](https://img.shields.io/badge/Academic_Portfolio-248_Files_%7C_160_MB-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/Mustafa-Yagci/engineering-academic-portfolio)
 
 </div>
 
@@ -53,7 +53,7 @@ My work converges at the intersection of **physical layer electronics** and **co
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏛️ <a href="https://github.com/yotova/engineering-academic-portfolio">engineering-academic-portfolio</a></h3>
+      <h3>🏛️ <a href="https://github.com/Mustafa-Yagci/engineering-academic-portfolio">engineering-academic-portfolio</a></h3>
       <p><b>Comprehensive B.Sc. & M.Sc. Practicum Archive</b></p>
       <p>Complete historical archive of <b>248 files (~160 MB)</b> across 6 years of laboratory research, industrial automation, and simulation models:</p>
       <ul>
@@ -66,7 +66,7 @@ My work converges at the intersection of **physical layer electronics** and **co
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧬 <a href="https://github.com/yotova/unipa-bioamp-pro">unipa-bioamp-pro</a></h3>
+      <h3>🧬 <a href="https://github.com/Mustafa-Yagci/unipa-bioamp-pro">unipa-bioamp-pro</a></h3>
       <p><b>Precision 4-Layer Biomedical Analog Front-End (KiCad 8)</b></p>
       <p>Custom biomedical biopotential acquisition board (ECG/EMG/EEG) engineered from first principles:</p>
       <ul>
@@ -82,7 +82,7 @@ My work converges at the intersection of **physical layer electronics** and **co
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📟 <a href="https://github.com/yotova/fpga-axi-fir-dsp-verification">fpga-axi-fir-dsp-verification</a></h3>
+      <h3>📟 <a href="https://github.com/Mustafa-Yagci/fpga-axi-fir-dsp-verification">fpga-axi-fir-dsp-verification</a></h3>
       <p><b>High-Throughput Parameterized AXI4-Stream DSP Filter</b></p>
       <p>Synthesizable RTL architecture for streaming digital signal processing targeting Xilinx 7-Series / UltraScale+:</p>
       <ul>
@@ -96,7 +96,7 @@ My work converges at the intersection of **physical layer electronics** and **co
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/yotova/hrp-cdar-portfolio-optimizer-v3">hrp-cdar-portfolio-optimizer-v3</a></h3>
+      <h3>📊 <a href="https://github.com/Mustafa-Yagci/hrp-cdar-portfolio-optimizer-v3">hrp-cdar-portfolio-optimizer-v3</a></h3>
       <p><b>Hierarchical Risk Parity & CDaR Convex Portfolio Allocator</b></p>
       <p>Institutional portfolio optimization engine eliminating instability in Markowitz quadratic inversion:</p>
       <ul>
@@ -112,7 +112,7 @@ My work converges at the intersection of **physical layer electronics** and **co
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/yotova/var-risk-shield">var-risk-shield</a></h3>
+      <h3>🛡️ <a href="https://github.com/Mustafa-Yagci/var-risk-shield">var-risk-shield</a></h3>
       <p><b>High-Throughput Tail-Risk & Extreme Value Theory Engine</b></p>
       <p>Automated quantitative risk suite calculating multivariable exposure under non-Gaussian tail behavior:</p>
       <ul>
@@ -126,7 +126,7 @@ My work converges at the intersection of **physical layer electronics** and **co
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/yotova/microstructure-dollar-bars-engine">microstructure-dollar-bars-engine</a></h3>
+      <h3>⚡ <a href="https://github.com/Mustafa-Yagci/microstructure-dollar-bars-engine">microstructure-dollar-bars-engine</a></h3>
       <p><b>Tick-Level Flow Imbalance & Rolling Kalman Filter</b></p>
       <p>Ultra-low-latency financial time series processor and market state estimation engine:</p>
       <ul>
@@ -207,8 +207,8 @@ My work converges at the intersection of **physical layer electronics** and **co
 ## 📈 Activity & GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yotova&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yotova&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa-Yagci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Yagci&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 ---
