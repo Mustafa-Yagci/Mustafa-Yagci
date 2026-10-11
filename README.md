@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustafa_Yağcı-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-mrmustafayagci%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrmustafayagci@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Italy-555555?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com)
-[![GitHub Portfolio](https://img.shields.io/badge/Academic_Portfolio-248_Files_%7C_160_MB-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/Mustafa-Yagci/engineering-academic-portfolio)
+[![GitHub Portfolio](https://img.shields.io/badge/Academic_Portfolio-92_Files_%7C_49_MB-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/Mustafa-Yagci/engineering-academic-portfolio)
 
 </div>
 
@@ -55,14 +55,14 @@ My work converges at the intersection of **physical layer electronics** and **co
     <td width="50%" valign="top">
       <h3>🏛️ <a href="https://github.com/Mustafa-Yagci/engineering-academic-portfolio">engineering-academic-portfolio</a></h3>
       <p><b>Undergraduate (B.Sc. Graduated) & Master's (M.Sc. Student, Ongoing) Practicum Archive</b></p>
-      <p>Complete historical archive of <b>248 files (~160 MB)</b> across 6 years of laboratory research, industrial automation, and simulation models:</p>
+      <p>Complete historical archive of <b>92 files (~49 MB)</b> across 6 years of laboratory research, industrial automation, and simulation models:</p>
       <ul>
         <li><b>ESOGÜ Lisans (2019–2025, Mezun):</b> Verilog Mealy FSM, MATLAB State-Space & Root-Locus, Siemens TIA Portal V17 PLC, Thyristor Power Electronics, RIE/SiO₂ fabrication.</li>
         <li><b>UniPa M.Sc. (Kasım 2025–Günümüz, Devam Ediyor / Öğrenci):</b> 65p Industrial Switch-Mode Power Report, 65p Virtual DAQ & 16-bit SAR ADC Suite, BioAmp Pro AFE, Applied Electronics.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Status-Public_Live-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Files-248_Artifacts-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Files-92_Artifacts-blue?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
