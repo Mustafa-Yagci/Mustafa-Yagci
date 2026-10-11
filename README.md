@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustafa_Yağcı-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-mrmustafayagci%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrmustafayagci@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Palermo%2C_Italy_%2F_Eski%C5%9Fehir%2C_Turkey-555555?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com)
+[![Location](https://img.shields.io/badge/Location-Italy-555555?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com)
 [![GitHub Portfolio](https://img.shields.io/badge/Academic_Portfolio-248_Files_%7C_160_MB-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/Mustafa-Yagci/engineering-academic-portfolio)
 
 </div>
