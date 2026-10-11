@@ -4,8 +4,8 @@
 
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,27,45&height=220&section=header&text=Mustafa%20Yağcı&fontSize=52&fontColor=ffffff&animation=fadeIn&subtext=Electronic%20%26%20Systems%20Engineer%20%7C%20Mixed-Signal%20Silicon%20%E2%80%A2%20FPGA%20RTL%20%E2%80%A2%20Quantitative%20Systems&subfontSize=18&subfontColor=d8ecf8)
 
-[![M.Sc. UniPa](https://img.shields.io/badge/M.Sc._Electronic_Engineering-UniPa_%7C_Nov_2025--Present-8B0000?style=for-the-badge&logo=googlescholar&logoColor=white)](https://www.unipa.it)
-[![B.Sc. ESOGU](https://img.shields.io/badge/B.Sc._Electrical_%26_Electronics-ESOGÜ_%7C_Apr_2025-003366?style=for-the-badge&logo=academia&logoColor=white)](https://ogu.edu.tr)
+[![M.Sc. Student UniPa](https://img.shields.io/badge/M.Sc._Student-UniPa_%7C_Nov_2025--Present_(Ongoing)-8B0000?style=for-the-badge&logo=googlescholar&logoColor=white)](https://www.unipa.it)
+[![B.Sc. Graduate ESOGU](https://img.shields.io/badge/B.Sc._Graduate-ESOGÜ_%7C_Apr_2025-003366?style=for-the-badge&logo=academia&logoColor=white)](https://ogu.edu.tr)
 [![Technical Reviewer](https://img.shields.io/badge/Book_Reviewer-FPGA_%26_Digital_Design_(Active)-2e7d32?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/Mustafa-Yagci)
 [![Quant Track](https://img.shields.io/badge/Live_Quant_AUM-%E2%82%AC537K+_Peak-b8860b?style=for-the-badge&logo=tradingview&logoColor=white)](https://github.com/Mustafa-Yagci)
 
@@ -54,11 +54,11 @@ My work converges at the intersection of **physical layer electronics** and **co
   <tr>
     <td width="50%" valign="top">
       <h3>🏛️ <a href="https://github.com/Mustafa-Yagci/engineering-academic-portfolio">engineering-academic-portfolio</a></h3>
-      <p><b>Comprehensive B.Sc. & M.Sc. Practicum Archive</b></p>
+      <p><b>Undergraduate (B.Sc. Graduated) & Master's (M.Sc. Student, Ongoing) Practicum Archive</b></p>
       <p>Complete historical archive of <b>248 files (~160 MB)</b> across 6 years of laboratory research, industrial automation, and simulation models:</p>
       <ul>
-        <li><b>Lisans (2021–2024):</b> Verilog Mealy FSM, MATLAB State-Space & Root-Locus, Siemens TIA Portal V17 PLC, Thyristor Power Electronics, RIE/SiO₂ fabrication.</li>
-        <li><b>UniPa M.Sc. (2025–2026):</b> 65p Industrial Switch-Mode Power Report, 65p Virtual DAQ & 16-bit SAR ADC Suite, BioAmp Pro AFE, Applied Electronics.</li>
+        <li><b>ESOGÜ Lisans (2019–2025, Mezun):</b> Verilog Mealy FSM, MATLAB State-Space & Root-Locus, Siemens TIA Portal V17 PLC, Thyristor Power Electronics, RIE/SiO₂ fabrication.</li>
+        <li><b>UniPa M.Sc. (Kasım 2025–Günümüz, Devam Ediyor / Öğrenci):</b> 65p Industrial Switch-Mode Power Report, 65p Virtual DAQ & 16-bit SAR ADC Suite, BioAmp Pro AFE, Applied Electronics.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Status-Public_Live-success?style=flat-square" />
@@ -217,7 +217,7 @@ My work converges at the intersection of **physical layer electronics** and **co
 
 - **Email:** [mrmustafayagci@gmail.com](mailto:mrmustafayagci@gmail.com)
 - **LinkedIn:** [Mustafa Yağcı](https://linkedin.com/in/)
-- **Academic Inquiries:** Università degli Studi di Palermo (UniPa), Dipartimento di Ingegneria
+- **Academic Affiliation:** Università degli Studi di Palermo (UniPa), M.Sc. Student in Electronic Engineering (Nov 2025 – Present / Ongoing)
 
 <div align="center">
   <sub>Engineered with precision. © 2026 Mustafa Yağcı.</sub>
