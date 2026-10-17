@@ -55,19 +55,18 @@ My work converges at the intersection of **physical layer electronics** and **co
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏛️ <a href="https://github.com/Mustafa-Yagci/engineering-academic-portfolio">engineering-academic-portfolio</a></h3>
-      <p><b>Undergraduate (B.Sc. Graduated) & Master's (M.Sc. Student, Ongoing) Practicum Archive</b></p>
-      <p>Complete historical archive across 6 years of power electronics, motor drives, laboratory research, and automated instrumentation:</p>
+      <h3>⚡ <a href="https://github.com/Mustafa-Yagci/engineering-academic-portfolio/tree/main/lisans/Bitirme_Tezi">High-Power BLDC Motor Driver</a></h3>
+      <p><b>🎓 B.Sc. Capstone Graduation Thesis & EV Propulsion Inverter</b></p>
+      <p>Industrial <b>84V / 40A</b> 3-phase sensored BLDC motor controller engineered for EV propulsion:</p>
       <ul>
-        <li><b>🎓 B.Sc. Capstone Thesis (Bitirme Tezi):</b> Design & implementation of an 84V / 40A 3-Phase Sensored BLDC Motor Driver with 120° Hall commutation, IRFB4110 MOSFET bridge, and RC snubber (<a href="https://github.com/Mustafa-Yagci/engineering-academic-portfolio/tree/main/lisans/Bitirme_Tezi">56p Full Report & 25-Slide Deck</a>).</li>
-        <li><b>🏆 TEKNOFEST 2023 Awards:</b> 🥉 3rd Place Acceleration Challenge & 🏅 9th Place International Efficiency Challenge with the Mavera EV platform.</li>
-        <li><b>ESOGÜ Lisans Practicum:</b> Verilog Mealy FSM, MATLAB Root-Locus/PID, Siemens TIA Portal V17 PLC, Thyristor Drives, RIE/SiO₂ microfabrication.</li>
-        <li><b>UniPa M.Sc. Research (Ongoing):</b> 65p Industrial SMPS PSIM study, 65p Virtual DAQ & 16-bit SAR ADC Suite (49 custom VIs), BioAmp Pro AFE.</li>
+        <li><b>Power Stage & Hardware:</b> 6x IRFB4110 MOSFET bridge ($V_{DS}=100\text{V}, I_D=180\text{A}, R_{DS(on)}=4.5\text{ m}\Omega$), high-current DC bus bar & RC snubber damping.</li>
+        <li><b>Firmware & Commutation:</b> STM32F103 (72 MHz ARM Cortex-M3), 120° Hall sensors with Schmitt trigger filtering, Independent Unipolar PWM, SysTick soft-start ramp.</li>
+        <li><b>🏆 Honors:</b> 🥉 3rd Place Acceleration Challenge & 🏅 9th Place International Efficiency Challenge at TEKNOFEST 2023 with Mavera EV.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Capstone-BLDC_Motor_Driver-red?style=flat-square" />
+        <a href="https://github.com/Mustafa-Yagci/engineering-academic-portfolio/blob/main/lisans/Bitirme_Tezi/BLDC_Motor_Driver_Graduation_Thesis_Report.pdf"><img src="https://img.shields.io/badge/Thesis_Report-56_Pages-blue?style=flat-square&logo=adobeacrobatreader" /></a>
+        <a href="https://github.com/Mustafa-Yagci/engineering-academic-portfolio/blob/main/lisans/Bitirme_Tezi/BLDC_Motor_Driver_Graduation_Project_Presentation.pdf"><img src="https://img.shields.io/badge/Defense_Deck-25_Slides-orange?style=flat-square" /></a>
         <img src="https://img.shields.io/badge/TEKNOFEST-3rd_&_9th_Place-gold?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-Public_Live-success?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -82,52 +81,24 @@ My work converges at the intersection of **physical layer electronics** and **co
       <p>
         <img src="https://img.shields.io/badge/KiCad-8.0-blueviolet?style=flat-square" />
         <img src="https://img.shields.io/badge/CMRR->100_dB-darkgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Public_Live-success?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📟 <a href="https://github.com/Mustafa-Yagci/fpga-axi-fir-dsp-verification">fpga-axi-fir-dsp-verification</a></h3>
-      <p><b>High-Throughput Parameterized AXI4-Stream DSP Filter</b></p>
-      <p>Synthesizable RTL architecture for streaming digital signal processing targeting Xilinx 7-Series / UltraScale+:</p>
+      <h3>🏛️ <a href="https://github.com/Mustafa-Yagci/engineering-academic-portfolio">engineering-academic-portfolio</a></h3>
+      <p><b>Undergraduate (B.Sc. Graduated) & Master's (M.Sc. Student, Ongoing) Practicum Archive</b></p>
+      <p>Complete historical archive of <b>94 files (~50 MB)</b> across 6 years of laboratory research, industrial automation, and simulation models:</p>
       <ul>
-        <li><b>RTL Architecture:</b> Parameterized systolic FIR filter core with symmetric coefficient folding.</li>
-        <li><b>AXI4-Stream Protocol:</b> Full backpressure flow control (`TREADY`/`TVALID`) with zero slip.</li>
-        <li><b>Verification:</b> Self-checking testbench in cocotb and Vivado XSim verifying impulse and frequency responses.</li>
+        <li><b>UniPa M.Sc. Research (Ongoing):</b> 65p Industrial SMPS PSIM study (Buck/Boost CCM/DCM), 65p Virtual DAQ & 16-bit SAR ADC dynamic testing suite (49 custom LabVIEW VIs).</li>
+        <li><b>ESOGÜ Lisans Practicum:</b> Verilog Mealy FSM, MATLAB Root-Locus/PID, Siemens TIA Portal V17 PLC, Thyristor Drives, RIE/SiO₂ microfabrication.</li>
+        <li><b>Open Hardware & Docs:</b> 100% reproducible laboratory reports, PSIM/LTspice circuits, and measurement scripts.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/HDL-Verilog_/_SystemVerilog-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/EDA-Vivado_/_Xilinx-red?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/Mustafa-Yagci/hrp-cdar-portfolio-optimizer-v3">hrp-cdar-portfolio-optimizer-v3</a></h3>
-      <p><b>Hierarchical Risk Parity & CDaR Convex Portfolio Allocator</b></p>
-      <p>Institutional portfolio optimization engine eliminating instability in Markowitz quadratic inversion:</p>
-      <ul>
-        <li><b>Machine Learning Tree Clustering:</b> Quasi-diagonalization of empirical asset correlation matrices.</li>
-        <li><b>Drawdown Risk Control:</b> Conditional Drawdown-at-Risk (CDaR) linear programming constraints.</li>
-        <li><b>Walk-Forward Validation:</b> Tested across rolling regimes with transaction-cost friction models.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-SciPy_/_CVXPY-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/AUM_Validated-€537K+-gold?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/Mustafa-Yagci/var-risk-shield">var-risk-shield</a></h3>
-      <p><b>High-Throughput Tail-Risk & Extreme Value Theory Engine</b></p>
-      <p>Automated quantitative risk suite calculating multivariable exposure under non-Gaussian tail behavior:</p>
-      <ul>
-        <li><b>EVT Peaks-Over-Threshold:</b> Generalized Pareto Distribution (GPD) fitting for fat-tailed drawdowns.</li>
-        <li><b>Parametric & Historical VaR:</b> Cornish-Fisher expansion incorporating skewness and excess kurtosis.</li>
-        <li><b>Kupiec & Christoffersen:</b> Rigorous statistical backtesting for conditional coverage.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Risk-EVT_/_VaR_/_ES-crimson?style=flat-square" />
-        <img src="https://img.shields.io/badge/Framework-NumPy_/_Polars-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Public_Live-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Files-94_Artifacts-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/M.Sc.-UniPa-8B0000?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -142,6 +113,7 @@ My work converges at the intersection of **physical layer electronics** and **co
       <p>
         <img src="https://img.shields.io/badge/Core-C++20_/_Python-00599C?style=flat-square" />
         <img src="https://img.shields.io/badge/Latency-Sub--Millisecond-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Public_Live-success?style=flat-square" />
       </p>
     </td>
   </tr>
