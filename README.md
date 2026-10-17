@@ -23,11 +23,19 @@
 
 ## ⚡ Architectural Thesis: Dual-Track Engineering
 
-> *"Bridging the Nanosecond Gap: From Precision Silicon to Low-Latency Execution."*
+> *"Bridging the Nanosecond Gap: From High-Precision Silicon & Power Hardware to Low-Latency Quantitative Execution."*
 
-My work converges at the intersection of **physical layer electronics** and **computational execution systems**:
-1. **Physical Layer & Silicon Architecture:** Designing precision Analog Front-Ends (AFE) with CMRR >100 dB, high-power 84V/40A 3-phase BLDC motor drive inverters (TEKNOFEST 2023 3rd & 9th place), synthesizing synthesizable FPGA RTL cores (Verilog/Vivado), architecting closed-loop power conversion topologies (Buck/Boost PI compensation), and developing virtual automated measurement instrumentation (LabVIEW / 16-bit SAR ADC).
-2. **Computational Layer & Quantitative Systems:** Engineering microstructural market state classifiers, calculating high-frequency dollar bar flows, deploying convex portfolio risk engines (Hierarchical Risk Parity, CDaR), and testing extreme tail-risk protection architectures.
+My engineering background converges at the intersection of **hardware silicon & embedded power systems** and **high-throughput quantitative execution architectures**, delivering end-to-end solutions from physical schematics to algorithmic software:
+
+1. **Hardware Engineering, Mixed-Signal Silicon & Power Systems:**
+   - **Precision Analog Front-End (AFE) Design:** Low-noise biopotential acquisition stages with CMRR >100 dB, laser-trimmed instrumentation amplifiers, and active Driven Right Leg (DRL) noise suppression.
+   - **High-Power Motor Drives & Power Electronics:** High-voltage, high-current 3-Phase BLDC motor drive inverters (**84V / 40A, TEKNOFEST 2023 3rd & 9th Place**), closed-loop Switch-Mode Power Supplies (**SMPS Buck/Boost**), and state-space analog PI compensators.
+   - **Digital FPGA RTL Design & Automated DAQ:** Synthesizable streaming architectures (**SystemVerilog / Verilog on Xilinx Vivado**) with AXI4-Stream bus flow control, paired with automated virtual instrumentation suites (**LabVIEW / 16-bit SAR ADC** dynamic characterization).
+
+2. **Quantitative Systems, Microstructure & Low-Latency Software:**
+   - **Market Microstructure & Order Flow Analysis:** Modeling tick-level Order Flow Imbalance (OFI), Level-2 limit order book liquidity dynamics, and information-driven volume/dollar bar sampling pipelines.
+   - **Convex Portfolio Risk Optimization:** Deploying machine-learning tree clustering algorithms (**Hierarchical Risk Parity - HRP**), Conditional Drawdown-at-Risk (**CDaR**), and Extreme Value Theory (**EVT / VaR / Expected Shortfall**) tail-risk shields.
+   - **High-Performance Deterministic Execution:** Building low-latency, thread-safe financial execution pipelines and dynamic state tracking engines utilizing **Modern C++ (C++17/20)** and vectorized scientific **Python (NumPy, Polars, SciPy)**.
 
 ```
                            ┌───────────────────────────────────────────────┐
@@ -37,14 +45,14 @@ My work converges at the intersection of **physical layer electronics** and **co
              ┌─────────────────────────────────────┴─────────────────────────────────────┐
              ▼                                                                           ▼
 ┌─────────────────────────────────────────┐                         ┌─────────────────────────────────────────┐
-│     PHYSICAL LAYER & HARDWARE SILICON   │                         │  COMPUTATIONAL LAYER & QUANT SYSTEMS    │
+│     HARDWARE, SILICON & POWER SYSTEMS   │                         │  QUANTITATIVE & LOW-LATENCY SYSTEMS     │
 ├─────────────────────────────────────────┤                         ├─────────────────────────────────────────┤
-│ • High-Power BLDC Inverter (84V / 40A)  │                         │ • Microstructure & Order Flow Imbalance │
+│ • High-Power BLDC Inverters (84V / 40A) │                         │ • Market Microstructure & Order Flow    │
 │ • Mixed-Signal PCB & Low-Noise AFE      │                         │ • Dollar/Volume Sampling & Trade Bars   │
-│ • Instrumentation Amps (CMRR >100 dB)   │                         │ • Convex Portfolio Allocation (HRP/CDaR)│
-│ • FPGA RTL (SystemVerilog, AXI4-Stream) │                         │ • EVT Value-at-Risk & Expected Shortfall│
-│ • Switch-Mode Power Topologies & PSIM   │                         │ • Deterministic Low-Latency Execution   │
-│ • Virtual DAQ & ADC Characterization    │                         │                                         │
+│ • Instrumentation Stages (CMRR >100 dB) │                         │ • Convex Portfolio Optimization (HRP)   │
+│ • FPGA RTL Synthesis (Vivado / AXI4)    │                         │ • Extreme Value Theory (EVT & VaR)      │
+│ • Switch-Mode Power (Buck/Boost / PSIM) │                         │ • High-Throughput Modern C++20 & Python │
+│ • Automated Virtual DAQ & ADC Testing   │                         │ • Low-Latency Execution Architecture    │
 └─────────────────────────────────────────┘                         └─────────────────────────────────────────┘
 ```
 
