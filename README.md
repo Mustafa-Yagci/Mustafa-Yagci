@@ -92,7 +92,7 @@ My work converges at the intersection of **physical layer electronics** and **co
       <p>Complete historical archive of <b>94 files (~50 MB)</b> across 6 years of laboratory research, industrial automation, and simulation models:</p>
       <ul>
         <li><b>UniPa M.Sc. Research (Ongoing):</b> 65p Industrial SMPS PSIM study (Buck/Boost CCM/DCM), 65p Virtual DAQ & 16-bit SAR ADC dynamic testing suite (49 custom LabVIEW VIs).</li>
-        <li><b>ESOGÜ Lisans Practicum:</b> Verilog Mealy FSM, MATLAB Root-Locus/PID, Siemens TIA Portal V17 PLC, Thyristor Drives, RIE/SiO₂ microfabrication.</li>
+        <li><b>ESOGÜ Undergraduate Practicum:</b> Verilog Mealy FSM, MATLAB Root-Locus/PID, Siemens TIA Portal V17 PLC, Thyristor Drives, RIE/SiO₂ microfabrication.</li>
         <li><b>Open Hardware & Docs:</b> 100% reproducible laboratory reports, PSIM/LTspice circuits, and measurement scripts.</li>
       </ul>
       <p>
