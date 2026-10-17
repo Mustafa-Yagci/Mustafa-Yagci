@@ -6,6 +6,7 @@
 
 [![M.Sc. Student UniPa](https://img.shields.io/badge/M.Sc._Student-UniPa_%7C_Nov_2025--Present_(Ongoing)-8B0000?style=for-the-badge&logo=googlescholar&logoColor=white)](https://www.unipa.it)
 [![B.Sc. Graduate ESOGU](https://img.shields.io/badge/B.Sc._Graduate-ESOGÜ_%7C_Apr_2025-003366?style=for-the-badge&logo=academia&logoColor=white)](https://ogu.edu.tr)
+[![TEKNOFEST 2023 Awards](https://img.shields.io/badge/TEKNOFEST_2023-3rd_&_9th_Place-FFD700?style=for-the-badge&logo=target&logoColor=black)](https://github.com/Mustafa-Yagci/engineering-academic-portfolio)
 [![Technical Reviewer](https://img.shields.io/badge/Book_Reviewer-FPGA_%26_Digital_Design_(Active)-2e7d32?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/Mustafa-Yagci)
 [![Quant Track](https://img.shields.io/badge/Live_Quant_AUM-%E2%82%AC537K+_Peak-b8860b?style=for-the-badge&logo=tradingview&logoColor=white)](https://github.com/Mustafa-Yagci)
 
@@ -14,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustafa_Yağcı-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-mrmustafayagci%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrmustafayagci@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Italy-555555?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com)
-[![GitHub Portfolio](https://img.shields.io/badge/Academic_Portfolio-92_Files_%7C_49_MB-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/Mustafa-Yagci/engineering-academic-portfolio)
+[![GitHub Portfolio](https://img.shields.io/badge/Academic_Portfolio-94_Files_%7C_50_MB-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/Mustafa-Yagci/engineering-academic-portfolio)
 
 </div>
 
@@ -25,7 +26,7 @@
 > *"Bridging the Nanosecond Gap: From Precision Silicon to Low-Latency Execution."*
 
 My work converges at the intersection of **physical layer electronics** and **computational execution systems**:
-1. **Physical Layer & Silicon Architecture:** Designing precision Analog Front-Ends (AFE) with CMRR >100 dB, synthesizing synthesizable FPGA RTL cores (Verilog/Vivado), architecting closed-loop power conversion topologies (Buck/Boost PI compensation), and developing virtual automated measurement instrumentation (LabVIEW / 16-bit SAR ADC).
+1. **Physical Layer & Silicon Architecture:** Designing precision Analog Front-Ends (AFE) with CMRR >100 dB, high-power 84V/40A 3-phase BLDC motor drive inverters (TEKNOFEST 2023 3rd & 9th place), synthesizing synthesizable FPGA RTL cores (Verilog/Vivado), architecting closed-loop power conversion topologies (Buck/Boost PI compensation), and developing virtual automated measurement instrumentation (LabVIEW / 16-bit SAR ADC).
 2. **Computational Layer & Quantitative Systems:** Engineering microstructural market state classifiers, calculating high-frequency dollar bar flows, deploying convex portfolio risk engines (Hierarchical Risk Parity, CDaR), and testing extreme tail-risk protection architectures.
 
 ```
@@ -38,11 +39,12 @@ My work converges at the intersection of **physical layer electronics** and **co
 ┌─────────────────────────────────────────┐                         ┌─────────────────────────────────────────┐
 │     PHYSICAL LAYER & HARDWARE SILICON   │                         │  COMPUTATIONAL LAYER & QUANT SYSTEMS    │
 ├─────────────────────────────────────────┤                         ├─────────────────────────────────────────┤
-│ • Mixed-Signal PCB & Low-Noise AFE      │                         │ • Microstructure & Order Flow Imbalance │
-│ • Instrumentation Amps (CMRR >100 dB)   │                         │ • Dollar/Volume Sampling & Trade Bars   │
-│ • FPGA RTL (SystemVerilog, AXI4-Stream) │                         │ • Convex Portfolio Allocation (HRP/CDaR)│
-│ • Switch-Mode Power Topologies & PSIM   │                         │ • EVT Value-at-Risk & Expected Shortfall│
-│ • Virtual DAQ & ADC Characterization    │                         │ • Deterministic Low-Latency Execution   │
+│ • High-Power BLDC Inverter (84V / 40A)  │                         │ • Microstructure & Order Flow Imbalance │
+│ • Mixed-Signal PCB & Low-Noise AFE      │                         │ • Dollar/Volume Sampling & Trade Bars   │
+│ • Instrumentation Amps (CMRR >100 dB)   │                         │ • Convex Portfolio Allocation (HRP/CDaR)│
+│ • FPGA RTL (SystemVerilog, AXI4-Stream) │                         │ • EVT Value-at-Risk & Expected Shortfall│
+│ • Switch-Mode Power Topologies & PSIM   │                         │ • Deterministic Low-Latency Execution   │
+│ • Virtual DAQ & ADC Characterization    │                         │                                         │
 └─────────────────────────────────────────┘                         └─────────────────────────────────────────┘
 ```
 
@@ -55,14 +57,17 @@ My work converges at the intersection of **physical layer electronics** and **co
     <td width="50%" valign="top">
       <h3>🏛️ <a href="https://github.com/Mustafa-Yagci/engineering-academic-portfolio">engineering-academic-portfolio</a></h3>
       <p><b>Undergraduate (B.Sc. Graduated) & Master's (M.Sc. Student, Ongoing) Practicum Archive</b></p>
-      <p>Complete historical archive of <b>92 files (~49 MB)</b> across 6 years of laboratory research, industrial automation, and simulation models:</p>
+      <p>Complete historical archive across 6 years of power electronics, motor drives, laboratory research, and automated instrumentation:</p>
       <ul>
-        <li><b>ESOGÜ Lisans (2019–2025, Mezun):</b> Verilog Mealy FSM, MATLAB State-Space & Root-Locus, Siemens TIA Portal V17 PLC, Thyristor Power Electronics, RIE/SiO₂ fabrication.</li>
-        <li><b>UniPa M.Sc. (Kasım 2025–Günümüz, Devam Ediyor / Öğrenci):</b> 65p Industrial Switch-Mode Power Report, 65p Virtual DAQ & 16-bit SAR ADC Suite, BioAmp Pro AFE, Applied Electronics.</li>
+        <li><b>🎓 B.Sc. Capstone Thesis (Bitirme Tezi):</b> Design & implementation of an 84V / 40A 3-Phase Sensored BLDC Motor Driver with 120° Hall commutation, IRFB4110 MOSFET bridge, and RC snubber (<a href="https://github.com/Mustafa-Yagci/engineering-academic-portfolio/tree/main/lisans/Bitirme_Tezi">56p Full Report & 25-Slide Deck</a>).</li>
+        <li><b>🏆 TEKNOFEST 2023 Awards:</b> 🥉 3rd Place Acceleration Challenge & 🏅 9th Place International Efficiency Challenge with the Mavera EV platform.</li>
+        <li><b>ESOGÜ Lisans Practicum:</b> Verilog Mealy FSM, MATLAB Root-Locus/PID, Siemens TIA Portal V17 PLC, Thyristor Drives, RIE/SiO₂ microfabrication.</li>
+        <li><b>UniPa M.Sc. Research (Ongoing):</b> 65p Industrial SMPS PSIM study, 65p Virtual DAQ & 16-bit SAR ADC Suite (49 custom VIs), BioAmp Pro AFE.</li>
       </ul>
       <p>
+        <img src="https://img.shields.io/badge/Capstone-BLDC_Motor_Driver-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/TEKNOFEST-3rd_&_9th_Place-gold?style=flat-square" />
         <img src="https://img.shields.io/badge/Status-Public_Live-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Files-92_Artifacts-blue?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
