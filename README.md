@@ -71,7 +71,7 @@ My work converges at the intersection of **physical layer electronics** and **co
     </td>
     <td width="50%" valign="top">
       <h3>🧬 <a href="https://github.com/Mustafa-Yagci/unipa-bioamp-pro">unipa-bioamp-pro</a></h3>
-      <p><b>Precision 4-Layer Biomedical Analog Front-End (KiCad 8)</b></p>
+      <p><b>Precision Biomedical Analog Front-End & Solid Ground Shield (KiCad 8)</b></p>
       <p>Custom biomedical biopotential acquisition board (ECG/EMG/EEG) engineered from first principles:</p>
       <ul>
         <li><b>CMRR >100 dB:</b> Precision INA128 instrumentation stage with matched resistor networks.</li>
