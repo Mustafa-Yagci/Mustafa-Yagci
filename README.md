@@ -185,12 +185,10 @@ My engineering background converges at the intersection of **hardware silicon & 
       </td>
     </tr>
     <tr>
-      <td><b>Engineering Standards</b></td>
+      <td><b>Applied Standards</b></td>
       <td>
-        <img src="https://img.shields.io/badge/IEEE-1800_%7C_1076_%7C_1241_%7C_1515-00629B?style=flat-square" />
-        <img src="https://img.shields.io/badge/IEC-60601--1_%7C_60950--1_%7C_61131--3-009900?style=flat-square" />
-        <img src="https://img.shields.io/badge/IPC-2221B_%7C_6012_%7C_9252_%7C_A--610-003366?style=flat-square" />
-        <img src="https://img.shields.io/badge/ISO%2FIEC-Guide_98--3_(GUM)-4B0082?style=flat-square" />
+        <img src="https://img.shields.io/badge/IEC-60601--1_%7C_60950--1_%7C_60309-009900?style=flat-square" />
+        <img src="https://img.shields.io/badge/IPC-6012_%7C_9252-003366?style=flat-square" />
       </td>
     </tr>
   </tbody>
