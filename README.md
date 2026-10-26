@@ -12,10 +12,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustafa_Yağcı-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustafa_Yağcı-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/-mustafa-yagci)
 [![Email](https://img.shields.io/badge/Email-mrmustafayagci%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrmustafayagci@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Italy-555555?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com)
 [![GitHub Portfolio](https://img.shields.io/badge/Academic_Portfolio-94_Files_%7C_50_MB-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/Mustafa-Yagci/engineering-academic-portfolio)
+[![WiFi Radar](https://img.shields.io/badge/WiFi_Radar-Real--Time_RF_Sensing-00B4D8?style=flat-square&logo=radar&logoColor=white)](https://github.com/Mustafa-Yagci/wifi-sensing-radar)
 
 </div>
 
@@ -125,6 +126,38 @@ My engineering background converges at the intersection of **hardware silicon & 
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📡 <a href="https://github.com/Mustafa-Yagci/wifi-sensing-radar">wifi-sensing-radar</a></h3>
+      <p><b>Real-Time Passive Wi-Fi Motion Sensing, Fresnel Perturbation & DSP Radar</b></p>
+      <p>Zero-hardware-modification passive environmental motion detection exploiting commodity Wi-Fi physical layer variations:</p>
+      <ul>
+        <li><b>RF Perturbation DSP:</b> Dual-Rate EMA adaptive baseline calibration (freezing on motion, tracking thermal drift), sliding-window Hampel outlier filter ($3\times\text{MAD}$), and 4th-order Butterworth SOS bandpass ($0.1\dots 4.0\text{ Hz}$).</li>
+        <li><b>Full-Stack Telemetry:</b> Sub-150ms real-time WebSocket stream (<code>/ws</code>) with polling fallback (<code>/api/poll</code>), background 50ms UDP keep-alive pacer, and React 19 / Vite Canvas dynamic radar field.</li>
+        <li><b>Literature & Validation:</b> Grounded in Fresnel zone diffraction theory and MIT/CMU radio-sensing foundations; verified by 50/50 Python pytest and 7/7 frontend suites on GitHub Actions CI.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Public_Live-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Python_FastAPI_/_React_19-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/DSP-Hampel_/_Butterworth-darkgreen?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/Mustafa-Yagci/fpga-axi-fir-dsp-verification">fpga-axi-fir-dsp-verification</a></h3>
+      <p><b>Parametric Fixed-Point FIR Filter with AXI4-Stream & Cocotb Verification</b></p>
+      <p>Digital signal processing pipeline optimized for low-latency Xilinx FPGA hardware:</p>
+      <ul>
+        <li><b>RTL Architecture:</b> Parameterized symmetric FIR filter in VHDL / SystemVerilog leveraging DSP48E slices with pipeline latency balancing.</li>
+        <li><b>AXI4-Stream Bus:</b> Handshake flow control (<code>TREADY</code> / <code>TVALID</code>), backpressure handling, and fixed-point overflow saturation.</li>
+        <li><b>Verification:</b> Python Cocotb testbenches comparing RTL output against floating-point SciPy golden reference models with automated timing closure.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/HDL-SystemVerilog_/_VHDL-005571?style=flat-square" />
+        <img src="https://img.shields.io/badge/Verification-Cocotb_/_ModelSim-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -208,7 +241,7 @@ My engineering background converges at the intersection of **hardware silicon & 
 ## 📬 Contact & Collaboration
 
 - **Email:** [mrmustafayagci@gmail.com](mailto:mrmustafayagci@gmail.com)
-- **LinkedIn:** [Mustafa Yağcı](https://linkedin.com/in/)
+- **LinkedIn:** [Mustafa Yağcı](https://linkedin.com/in/-mustafa-yagci)
 - **Academic Affiliation:** Università degli Studi di Palermo (UniPa), M.Sc. Student in Electronic Engineering (Nov 2025 – Present / Ongoing)
 
 <div align="center">
