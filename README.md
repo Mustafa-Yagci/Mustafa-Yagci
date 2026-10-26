@@ -127,7 +127,7 @@ My engineering background converges at the intersection of **hardware silicon & 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" width="100%" valign="top">
       <h3>📡 <a href="https://github.com/Mustafa-Yagci/wifi-sensing-radar">wifi-sensing-radar</a></h3>
       <p><b>Real-Time Passive Wi-Fi Motion Sensing, Fresnel Perturbation & DSP Radar</b></p>
       <p>Zero-hardware-modification passive environmental motion detection exploiting commodity Wi-Fi physical layer variations:</p>
@@ -139,22 +139,8 @@ My engineering background converges at the intersection of **hardware silicon & 
       <p>
         <img src="https://img.shields.io/badge/Status-Public_Live-success?style=flat-square" />
         <img src="https://img.shields.io/badge/Stack-Python_FastAPI_/_React_19-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/DSP-Hampel_/_Butterworth-darkgreen?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/Mustafa-Yagci/fpga-axi-fir-dsp-verification">fpga-axi-fir-dsp-verification</a></h3>
-      <p><b>Parametric Fixed-Point FIR Filter with AXI4-Stream & Cocotb Verification</b></p>
-      <p>Digital signal processing pipeline optimized for low-latency Xilinx FPGA hardware:</p>
-      <ul>
-        <li><b>RTL Architecture:</b> Parameterized symmetric FIR filter in VHDL / SystemVerilog leveraging DSP48E slices with pipeline latency balancing.</li>
-        <li><b>AXI4-Stream Bus:</b> Handshake flow control (<code>TREADY</code> / <code>TVALID</code>), backpressure handling, and fixed-point overflow saturation.</li>
-        <li><b>Verification:</b> Python Cocotb testbenches comparing RTL output against floating-point SciPy golden reference models with automated timing closure.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/HDL-SystemVerilog_/_VHDL-005571?style=flat-square" />
-        <img src="https://img.shields.io/badge/Verification-Cocotb_/_ModelSim-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/DSP-Hampel_/_Butterworth_SOS-darkgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Standard-IEEE_802.11bf-8B0000?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -173,6 +159,17 @@ My engineering background converges at the intersection of **hardware silicon & 
   </thead>
   <tbody>
     <tr>
+      <td><b>DSP & RF Sensing</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Wi--Fi_Sensing-CSI_%26_RSSI-00B4D8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Fresnel_Zone_Modeling-0077B6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Hampel_Filter-3xMAD-darkgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Butterworth_SOS_IIR-009900?style=flat-square" />
+        <img src="https://img.shields.io/badge/Welch_PSD_Spectral-8A2BE2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Adaptive_Dual--Rate_EMA-purple?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
       <td><b>EDA & Hardware Design</b></td>
       <td>
         <img src="https://img.shields.io/badge/KiCad_8.0-314CB0?style=flat-square&logo=kicad&logoColor=white" />
@@ -184,7 +181,7 @@ My engineering background converges at the intersection of **hardware silicon & 
       </td>
     </tr>
     <tr>
-      <td><b>Languages & HDL</b></td>
+      <td><b>Languages & Web</b></td>
       <td>
         <img src="https://img.shields.io/badge/SystemVerilog-005571?style=flat-square" />
         <img src="https://img.shields.io/badge/Verilog_RTL-294E80?style=flat-square" />
@@ -192,6 +189,7 @@ My engineering background converges at the intersection of **hardware silicon & 
         <img src="https://img.shields.io/badge/C%2B%2B17%2F20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
         <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
       </td>
     </tr>
@@ -209,6 +207,8 @@ My engineering background converges at the intersection of **hardware silicon & 
     <tr>
       <td><b>Protocols & Interfaces</b></td>
       <td>
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/AXI4--Stream-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/SPI-darkgreen?style=flat-square" />
         <img src="https://img.shields.io/badge/I2C-darkgreen?style=flat-square" />
@@ -220,6 +220,8 @@ My engineering background converges at the intersection of **hardware silicon & 
     <tr>
       <td><b>Applied Standards</b></td>
       <td>
+        <img src="https://img.shields.io/badge/IEEE-802.11bf_(WLAN_Sensing)-00629B?style=flat-square&logo=ieee&logoColor=white" />
+        <img src="https://img.shields.io/badge/IEEE-802.11ac%2Fax-00629B?style=flat-square&logo=ieee&logoColor=white" />
         <img src="https://img.shields.io/badge/IEC-60601--1_%7C_60950--1_%7C_60309-009900?style=flat-square" />
         <img src="https://img.shields.io/badge/IPC-6012_%7C_9252-003366?style=flat-square" />
       </td>
